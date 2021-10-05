@@ -1,0 +1,7 @@
+{
+  "name": "RentalZ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
